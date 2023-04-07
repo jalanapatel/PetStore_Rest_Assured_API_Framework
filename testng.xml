@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="PetSuite">
+
+	<!-- Add ITestListner Tag before test Start ==>>  to add Extent_Report_Manager Claas for Report Generate -->
+
+	<listeners>
+		<listener class-name="api.utilities.Extent_Report_Manager"></listener>
+
+	</listeners>
+
+
+	<test thread-count="5" name="PetTests">
+		<classes>
+			  <class name="api.test.A6_UserTests_Logs" />  
+			<!--   <class name="api.test.A5_Data_Driven_User_Test"/> -->
+			<!-- <class name="api.test.A7_UserTests_Properties_File" />  -->
+			
+		</classes>
+	</test> <!-- PetTests -->
+</suite> <!-- PetSuite -->
