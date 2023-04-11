@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-05T14:11:23 EDT" name="PetSuite" finished-at="2023-04-05T14:11:26 EDT" duration-ms="2814">
+  <suite started-at="2023-04-09T10:44:37 EDT" name="Default suite" finished-at="2023-04-09T10:44:40 EDT" duration-ms="3111">
     <groups>
     </groups>
-    <test started-at="2023-04-05T14:11:23 EDT" name="PetTests" finished-at="2023-04-05T14:11:26 EDT" duration-ms="2814">
-      <class name="api.test.A7_UserTests_Properties_File">
-        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.A7_UserTests_Properties_File@35cabb2a]" started-at="2023-04-05T14:11:23 EDT" name="setupData" finished-at="2023-04-05T14:11:24 EDT" duration-ms="491" status="PASS">
+    <test started-at="2023-04-09T10:44:37 EDT" name="Default test" finished-at="2023-04-09T10:44:40 EDT" duration-ms="3111">
+      <class name="api.test.A4_UserTests">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.A4_UserTests@4550bb58]" started-at="2023-04-09T10:44:37 EDT" name="setupData" finished-at="2023-04-09T10:44:37 EDT" duration-ms="269" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupData -->
-        <test-method signature="testPostUser()[pri:1, instance:api.test.A7_UserTests_Properties_File@35cabb2a]" started-at="2023-04-05T14:11:24 EDT" name="testPostUser" finished-at="2023-04-05T14:11:25 EDT" duration-ms="1510" status="PASS">
+        <test-method signature="testPostUser()[pri:1, instance:api.test.A4_UserTests@4550bb58]" started-at="2023-04-09T10:44:37 EDT" name="testPostUser" finished-at="2023-04-09T10:44:39 EDT" duration-ms="2275" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPostUser -->
-        <test-method signature="testGetUserByName()[pri:2, instance:api.test.A7_UserTests_Properties_File@35cabb2a]" started-at="2023-04-05T14:11:25 EDT" name="testGetUserByName" finished-at="2023-04-05T14:11:26 EDT" duration-ms="159" status="PASS">
+        <test-method signature="testGetUserByName()[pri:2, instance:api.test.A4_UserTests@4550bb58]" started-at="2023-04-09T10:44:39 EDT" name="testGetUserByName" finished-at="2023-04-09T10:44:40 EDT" duration-ms="129" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetUserByName -->
-        <test-method signature="testUpdateUserByName()[pri:3, instance:api.test.A7_UserTests_Properties_File@35cabb2a]" started-at="2023-04-05T14:11:26 EDT" name="testUpdateUserByName" finished-at="2023-04-05T14:11:26 EDT" duration-ms="274" status="PASS">
+        <test-method signature="testUpdateUserByName()[pri:3, instance:api.test.A4_UserTests@4550bb58]" started-at="2023-04-09T10:44:40 EDT" name="testUpdateUserByName" finished-at="2023-04-09T10:44:40 EDT" duration-ms="273" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUpdateUserByName -->
-        <test-method signature="testDeleteUserByName()[pri:4, instance:api.test.A7_UserTests_Properties_File@35cabb2a]" started-at="2023-04-05T14:11:26 EDT" name="testDeleteUserByName" finished-at="2023-04-05T14:11:26 EDT" duration-ms="138" status="PASS">
+        <test-method signature="testDeleteUserByName()[pri:4, instance:api.test.A4_UserTests@4550bb58]" started-at="2023-04-09T10:44:40 EDT" name="testDeleteUserByName" finished-at="2023-04-09T10:44:40 EDT" duration-ms="105" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDeleteUserByName -->
-      </class> <!-- api.test.A7_UserTests_Properties_File -->
-    </test> <!-- PetTests -->
-  </suite> <!-- PetSuite -->
+      </class> <!-- api.test.A4_UserTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

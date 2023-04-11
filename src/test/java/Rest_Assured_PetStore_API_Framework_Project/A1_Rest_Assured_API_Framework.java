@@ -223,9 +223,22 @@ public class A1_Rest_Assured_API_Framework {
 				( Jenkin also use same “maven test” command ) 
 			
 				Run project in following sequence: 
+a).			
  ---> run pom.xml in Eclipse manually ---> run pom.xml in command prompt in local machine ---> run project in Jenkins remotely
 	
+b). 	
+ ---> run pom.xml in Eclipse manually ---> run pom.xml in command prompt in local machine ---> commit in Local repository (Git)--- 
+ 
+ ---> Local machine ---> commit code ---> Git (Local repository) ---> push code ---> GitHub (Remote repository)
+ 
+ --> Create build in deveops environment ---> run project in Jenkins remotely
 	
+	
+	         3).Commit code in Local Repository ( Git )
+	         
+	         4). Push Code into Remote Repository / Global Repository( GitHub )
+	         
+	         5). Run Project in Jenkins ( from GitHub ) ( Latest Code - every day change code ) 
 	
 	
 	
