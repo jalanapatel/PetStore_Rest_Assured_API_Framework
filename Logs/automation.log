@@ -174,3 +174,11 @@
 2023-04-10 21:54:01.877 [main] INFO   api.test.A6_UserTests_Logs -  ************  User Updated ************** 
 2023-04-10 21:54:02.038 [main] INFO   api.test.A6_UserTests_Logs -  ************  Deleting User ************** 
 2023-04-10 21:54:02.162 [main] INFO   api.test.A6_UserTests_Logs -  ************  User Deleted  ************** 
+2023-04-11 09:45:34.208 [main] INFO   api.test.A6_UserTests_Logs -  ************  Creating User ************** 
+2023-04-11 09:45:35.968 [main] INFO   api.test.A6_UserTests_Logs -  ************  Creating User ************** 
+2023-04-11 09:45:35.984 [main] INFO   api.test.A6_UserTests_Logs -  ************  Reading User Info  ************** 
+2023-04-11 09:45:36.158 [main] INFO   api.test.A6_UserTests_Logs -  ************   User Info Displayed ************** 
+2023-04-11 09:45:36.158 [main] INFO   api.test.A6_UserTests_Logs -  ************  Updating User ************** 
+2023-04-11 09:45:36.300 [main] INFO   api.test.A6_UserTests_Logs -  ************  User Updated ************** 
+2023-04-11 09:45:36.440 [main] INFO   api.test.A6_UserTests_Logs -  ************  Deleting User ************** 
+2023-04-11 09:45:36.568 [main] INFO   api.test.A6_UserTests_Logs -  ************  User Deleted  ************** 
