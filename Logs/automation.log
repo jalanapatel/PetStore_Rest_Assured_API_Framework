@@ -126,3 +126,27 @@
 2023-04-10 21:03:25.767 [main] INFO   api.test.A6_UserTests_Logs -  ************  User Updated ************** 
 2023-04-10 21:03:25.906 [main] INFO   api.test.A6_UserTests_Logs -  ************  Deleting User ************** 
 2023-04-10 21:03:26.042 [main] INFO   api.test.A6_UserTests_Logs -  ************  User Deleted  ************** 
+2023-04-10 21:10:59.846 [main] INFO   api.test.A6_UserTests_Logs -  ************  Creating User ************** 
+2023-04-10 21:11:01.320 [main] INFO   api.test.A6_UserTests_Logs -  ************  Creating User ************** 
+2023-04-10 21:11:01.336 [main] INFO   api.test.A6_UserTests_Logs -  ************  Reading User Info  ************** 
+2023-04-10 21:11:01.524 [main] INFO   api.test.A6_UserTests_Logs -  ************   User Info Displayed ************** 
+2023-04-10 21:11:01.524 [main] INFO   api.test.A6_UserTests_Logs -  ************  Updating User ************** 
+2023-04-10 21:11:01.649 [main] INFO   api.test.A6_UserTests_Logs -  ************  User Updated ************** 
+2023-04-10 21:11:01.789 [main] INFO   api.test.A6_UserTests_Logs -  ************  Deleting User ************** 
+2023-04-10 21:11:01.899 [main] INFO   api.test.A6_UserTests_Logs -  ************  User Deleted  ************** 
+2023-04-10 21:38:32.186 [main] INFO   api.test.A6_UserTests_Logs -  ************  Creating User ************** 
+2023-04-10 21:38:33.559 [main] INFO   api.test.A6_UserTests_Logs -  ************  Creating User ************** 
+2023-04-10 21:38:33.568 [main] INFO   api.test.A6_UserTests_Logs -  ************  Reading User Info  ************** 
+2023-04-10 21:38:33.702 [main] INFO   api.test.A6_UserTests_Logs -  ************   User Info Displayed ************** 
+2023-04-10 21:38:33.703 [main] INFO   api.test.A6_UserTests_Logs -  ************  Updating User ************** 
+2023-04-10 21:38:33.832 [main] INFO   api.test.A6_UserTests_Logs -  ************  User Updated ************** 
+2023-04-10 21:38:33.959 [main] INFO   api.test.A6_UserTests_Logs -  ************  Deleting User ************** 
+2023-04-10 21:38:34.086 [main] INFO   api.test.A6_UserTests_Logs -  ************  User Deleted  ************** 
+2023-04-10 21:39:00.251 [main] INFO   api.test.A6_UserTests_Logs -  ************  Creating User ************** 
+2023-04-10 21:39:01.428 [main] INFO   api.test.A6_UserTests_Logs -  ************  Creating User ************** 
+2023-04-10 21:39:01.438 [main] INFO   api.test.A6_UserTests_Logs -  ************  Reading User Info  ************** 
+2023-04-10 21:39:01.585 [main] INFO   api.test.A6_UserTests_Logs -  ************   User Info Displayed ************** 
+2023-04-10 21:39:01.586 [main] INFO   api.test.A6_UserTests_Logs -  ************  Updating User ************** 
+2023-04-10 21:39:01.725 [main] INFO   api.test.A6_UserTests_Logs -  ************  User Updated ************** 
+2023-04-10 21:39:01.934 [main] INFO   api.test.A6_UserTests_Logs -  ************  Deleting User ************** 
+2023-04-10 21:39:02.067 [main] INFO   api.test.A6_UserTests_Logs -  ************  User Deleted  ************** 
